@@ -24,7 +24,7 @@ The project must generate a `team.html` page in the `output` directory, that dis
   * Role-specific property (School, link to GitHub profile, or office number)
   
 ## Demo 
-Please access the link [here](https://drive.google.com/file/d/1T8RoHtYoJwoYM72SLN2NRDBJ1nfkCkKZ/view?usp=sharing) to watch the walkthrough video.
+Please access the link provided [here](https://drive.google.com/file/d/1T8RoHtYoJwoYM72SLN2NRDBJ1nfkCkKZ/view?usp=sharing) to watch the walkthrough video.
 
 ## License
 <p><a href="https://choosealicense.com/licenses/mit/#">MIT</a> License</p>
